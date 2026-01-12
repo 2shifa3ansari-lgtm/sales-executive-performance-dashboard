@@ -19,7 +19,6 @@ profit trends, and regional distribution using pivot tables and charts.
 
 ## Dashboard Preview
 ![Dashboard Overview](images/dashboard_overview.png)
-![Sales by Region](images/sales_by_region.png)
 
 ## File Information
 - `Sales_Dashboard.xlsx` – Fully interactive Excel dashboard
